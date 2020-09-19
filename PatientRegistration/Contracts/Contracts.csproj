@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="iMedOneDB">
+      <HintPath>C:\Users\PRAMOD\Desktop\iMedOneDB.DLL</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
